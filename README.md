@@ -1594,9 +1594,10 @@
 </div>
 <p><br></p>
 <p><span style="font-size:12pt;">To verify that the number of factors to use, the scree test will be implemented. Notice the &lsquo;elbow&rsquo; &nbsp;in figure 1 occurs at 1.</span></p>
-<p><br></p>
+<center>
 <p style="text-align: center;"><span style="font-size:12pt;"><span style="border:none;"><img src="https://lh7-us.googleusercontent.com/docsz/AD_4nXfty8zv6XeBsxLmpkK_xke0BdPYPssKj9e8R7KIaWl7SbcdpF_OgasQUrr83gO45hTt0nxmfoPFsh0wOMiBxmEn-zzCqdq_36b_YQ4EUBU1nK0-BCS1pd1I9KCsTAr6v8DDU81QLLQ1XsPREN-x9tAvzfeRYGZ3Ibhncej2ndRKd-DLxOz3908?key=Xljl87xNgNEtcl0OIgL9nQ" width="537" height="632"></span></span></p>
 <p><span style="font-size:10pt;">Figure 1 : Scree Test</span></p>
+</center>
 <p><span style="font-size:12pt;">The unrotated factor solution each variable to loads high on factor1, it is not possible to perform a rotation with 1 factor.</span></p>
 <div align="center">
     <table style="border:none;border-collapse:collapse;">
